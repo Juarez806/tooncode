@@ -1,12 +1,13 @@
 {
-  "name": "tooncode",
-  "version": "1.0.0",
+  "name": "@toonoku/tooncode",
+  "version": "1.0.1",
   "description": "Google Gemini powered React component generator CLI",
   "module": "cli.js",
   "main": "cli.js",
   "type": "module",
+  "private": false,
   "bin": {
-    "tooncode": "./cli.js"
+    "tooncode": "cli.js"
   },
   "keywords": [
     "cli",
